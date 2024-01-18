@@ -1,26 +1,35 @@
-## 微信二维码
+! 微信二维码
 mp.weixin.qq.com##.qr_code_pc_outer
+mp.weixin.qq.com/mp/
+badjs.weixinbridge.com
 
-## 小众软件
+! 小众软件
 www.appinn.com##section.featured-section
 www.appinn.com##div.test
 
-## EMS日志
+! EMS日志
 fe.pupumall.com
 bwy1.pupuapi.com
 bwy.pupuapi.com
+dms.pupumall.com###watermark_container>div:style(background-size: 0% !important)
+webapppudo.pupuvip.com##.opm-pulse-webapp-ant-pro-layout-watermark
 
-## 腾讯文档
+! 腾讯文档
 cube.weixinbridge.com/cube/report
 at.idqqimg.com/api/v1/open/log_report_whitelist
 docrp.weixin.qq.com/report
 doc.weixin.qq.com/info/report
 doc.weixin.qq.com/doc/log_report
 aegis.qq.com
+doc.weixin.qq.com##.watermark-bg:style(background-image: none !important)
+doc.weixin.qq.com##.wecom-watermark-bg:style(background-image: none !important)
+doc.weixin.qq.com###__clear_watermark_id:style(background-image: none !important)
+doc.weixin.qq.com###__dark_watermark_id:style(background-image: none !important)
+www.tapd.cn###General_div > div:first-child:style(background-size: 0% !important !important)
+www.tapd.cn###General_div > div:first-child:style(background-size: 0% !important !important)
 
-## 微信
-mp.weixin.qq.com/mp/
-badjs.weixinbridge.com
-
-## 微博
+! 微博
 m.weibo.cn/h5logs/actionLog
+
+! 非书
+feishu.cn##.ssrWaterMark:style(background-size: 0% !important)
