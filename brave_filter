@@ -7,7 +7,7 @@ badjs.weixinbridge.com
 www.appinn.com##section.featured-section
 www.appinn.com##div.test
 
-! EMS日志
+! EMS
 fe.pupumall.com
 bwy1.pupuapi.com
 bwy.pupuapi.com
@@ -21,16 +21,13 @@ at.idqqimg.com/api/v1/open/log_report_whitelist
 docrp.weixin.qq.com/report
 doc.weixin.qq.com/info/report
 doc.weixin.qq.com/doc/log_report
+doc.weixin.qq.com/watermark/
 aegis.qq.com
-doc.weixin.qq.com##.watermark-bg:style(background-image: none !important)
-doc.weixin.qq.com##.wecom-watermark-bg:style(background-image: none !important)
-doc.weixin.qq.com###__clear_watermark_id:style(background-image: none !important)
-doc.weixin.qq.com###__dark_watermark_id:style(background-image: none !important)
-www.tapd.cn###General_div > div:first-child:style(background-size: 0% !important !important)
-www.tapd.cn###General_div > div:first-child:style(background-size: 0% !important !important)
+tdl.tapd.cn/tfl/js_dist/tfl-watermark-*
+doc.weixin.qq.com###__watermark_container_id
 
 ! 微博
 m.weibo.cn/h5logs/actionLog
 
-! 非书
+! 飞书
 feishu.cn##.ssrWaterMark:style(background-size: 0% !important)
