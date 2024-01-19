@@ -14,6 +14,7 @@ bwy.pupuapi.com
 dms.pupumall.com###watermark_container>div:style(background-size: 0% !important)
 webapppudo.pupuvip.com##.opm-pulse-webapp-ant-pro-layout-watermark
 admin.pupumall.com##.__wm:style(background-image: none !important)
+oa.pupumall.net##img[id^="wea_watermark_"]
 
 ! 腾讯文档
 cube.weixinbridge.com/cube/report
