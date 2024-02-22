@@ -1,3 +1,8 @@
+! Title: 森罗自用广告过滤规则
+! Description: 森罗自用广告过滤规则
+! Version: 2024.2.22
+! Homepage: https://github.com/senluo-liam/brave-filter
+!-------------------通用脚本元素-------------------
 ! 百度
 www.baidu.com###page-copyright
 m.baidu.com###page-copyright
