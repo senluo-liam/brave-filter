@@ -42,3 +42,7 @@ m.weibo.cn/h5logs/actionLog
 
 ! 飞书
 feishu.cn##.ssrWaterMark:style(background-size: 0% !important)
+slardar-bd.feishu.cn
+mcs-bd.feishu.cn
+api.feelgood.cn
+feishu.cn##body>div>div>div>div[style^='z-index']:style(background-size: 0% !important)
