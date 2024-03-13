@@ -45,4 +45,6 @@ feishu.cn##.ssrWaterMark:style(background-size: 0% !important)
 slardar-bd.feishu.cn
 mcs-bd.feishu.cn
 api.feelgood.cn
+lf3-short.bytegoofy.com
+lf3-short.ibytedapm.com
 feishu.cn##body>div>div>div>div[style^='z-index']:style(background-size: 0% !important)
