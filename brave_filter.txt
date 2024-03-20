@@ -16,6 +16,9 @@ badjs.weixinbridge.com
 www.appinn.com##section.featured-section
 www.appinn.com##div.test
 
+! 知鸦
+tool.lu##.pc-qr-code
+
 ! EMS
 fe.pupumall.com
 bwy1.pupuapi.com
