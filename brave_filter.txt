@@ -16,6 +16,9 @@ badjs.weixinbridge.com
 www.appinn.com##section.featured-section
 www.appinn.com##div.test
 
+! 抽屉
+img3.chouti.comhttps
+
 ! 知鸦
 tool.lu##.pc-qr-code
 
