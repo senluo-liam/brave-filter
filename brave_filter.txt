@@ -1,11 +1,15 @@
 ! Title: 森罗自用广告过滤规则
 ! Description: 森罗自用广告过滤规则
-! Version: 2024.2.22
+! Version: 2024.7.11
 ! Homepage: https://github.com/senluo-liam/brave-filter
 !-------------------通用脚本元素-------------------
 ! 百度
-www.baidu.com###page-copyright
-m.baidu.com###page-copyright
+baidu.com###page-copyright
+baidu.com###foot
+www.baidu.com###con-ceiling-wrapper
+
+! 谷歌
+www.google.com.hk###sfooter
 
 ! 微信二维码
 mp.weixin.qq.com##.qr_code_pc_outer
@@ -16,9 +20,6 @@ badjs.weixinbridge.com
 www.appinn.com##section.featured-section
 www.appinn.com##div.test
 
-! 抽屉
-img3.chouti.comhttps
-
 ! 知鸦
 tool.lu##.pc-qr-code
 
@@ -28,20 +29,9 @@ bwy1.pupuapi.com
 bwy.pupuapi.com
 dms.pupumall.com###watermark_container>div:style(background-size: 0% !important)
 webapppudo.pupuvip.com##.opm-pulse-webapp-ant-pro-layout-watermark
+webapppudo.pupuvip.com###watermark_container>div:style(background-size: 0% !important)
 admin.pupumall.com##.__wm:style(background-image: none !important)
 oa.pupumall.net##img[id^="wea_watermark_"]
-
-! 腾讯文档
-cube.weixinbridge.com/cube/report
-at.idqqimg.com/api/v1/open/log_report_whitelist
-docrp.weixin.qq.com/report
-doc.weixin.qq.com/info/report
-doc.weixin.qq.com/doc/log_report
-doc.weixin.qq.com/watermark/
-aegis.qq.com
-tdl.tapd.cn/tfl/js_dist/tfl-watermark-*
-doc.weixin.qq.com###__watermark_container_id
-res.wx.qq.com/d/components/img/1px.gif
 
 ! 微博
 m.weibo.cn/h5logs/actionLog
