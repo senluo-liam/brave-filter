@@ -28,8 +28,9 @@ fe.pupumall.com
 bwy1.pupuapi.com
 bwy.pupuapi.com
 dms.pupumall.com###watermark_container>div:style(background-size: 0% !important)
-webapppudo.pupuvip.com##.opm-pulse-webapp-ant-pro-layout-watermark
 webapppudo.pupuvip.com###watermark_container>div:style(background-size: 0% !important)
+cmpwebapp.pupuvip.com###watermark_container>div:style(background-size: 0% !important)
+webapppudo.pupuvip.com##.opm-pulse-webapp-ant-pro-layout-watermark
 admin.pupumall.com##.__wm:style(background-image: none !important)
 oa.pupumall.net##img[id^="wea_watermark_"]
 
