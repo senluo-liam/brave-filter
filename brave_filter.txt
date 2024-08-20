@@ -32,8 +32,6 @@ pupuvip.com###watermark_container>div:style(background-size: 0% !important)
 webapppudo.pupuvip.com##.opm-pulse-webapp-ant-pro-layout-watermark
 admin.pupumall.com##.__wm:style(background-image: none !important)
 oa.pupumall.net##img[id^="wea_watermark_"]
-! 反处理一个
-cmpwebapp.pupuvip.com#@#.share-component
 
 ! 微博
 m.weibo.cn/h5logs/actionLog
