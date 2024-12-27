@@ -37,6 +37,7 @@ cmpwebapp.pupuvip.com#@#.share-component
 
 ! 微博
 m.weibo.cn/h5logs/actionLog
+m.weibo.cn/status/baiduad
 
 ! 飞书
 feishu.cn##.ssrWaterMark:style(background-size: 0% !important)
