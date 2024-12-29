@@ -47,3 +47,7 @@ api.feelgood.cn
 lf3-short.bytegoofy.com
 lf3-short.ibytedapm.com
 feishu.cn##body>div>div>div>div[style^='z-index']:style(background-size: 0% !important)
+
+! 《设计数据密集型应用》
+ddia2.pigsty.io##.github-corner
+ddia2.pigsty.io##.app-nav
