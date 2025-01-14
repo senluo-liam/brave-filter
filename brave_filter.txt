@@ -3,6 +3,7 @@
 ! Version: 2024.7.11
 ! Homepage: https://github.com/senluo-liam/brave-filter
 !-------------------通用脚本元素-------------------
+
 ! 百度
 baidu.com###page-copyright
 baidu.com###foot
@@ -15,10 +16,6 @@ www.google.com.hk###sfooter
 mp.weixin.qq.com##.qr_code_pc_outer
 mp.weixin.qq.com/mp/
 badjs.weixinbridge.com
-
-! 小众软件
-www.appinn.com##section.featured-section
-www.appinn.com##div.test
 
 ! 知鸦
 tool.lu##.pc-qr-code
@@ -48,6 +45,3 @@ lf3-short.bytegoofy.com
 lf3-short.ibytedapm.com
 feishu.cn##body>div>div>div>div[style^='z-index']:style(background-size: 0% !important)
 
-! 《设计数据密集型应用》
-ddia2.pigsty.io##.github-corner
-ddia2.pigsty.io##.app-nav
