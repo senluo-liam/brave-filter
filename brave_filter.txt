@@ -44,4 +44,4 @@ api.feelgood.cn
 lf3-short.bytegoofy.com
 lf3-short.ibytedapm.com
 feishu.cn##body>div>div>div>div[style^='z-index']:style(background-size: 0% !important)
-
+feishu.cn##.help-block.group-btns
