@@ -14,6 +14,7 @@ www.google.com.hk###sfooter
 
 ! 微信二维码
 mp.weixin.qq.com##.qr_code_pc_outer
+mp.weixin.qq.com###unlogin_bottom_bar
 mp.weixin.qq.com/mp/
 badjs.weixinbridge.com
 
