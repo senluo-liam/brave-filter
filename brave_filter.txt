@@ -4,11 +4,6 @@
 ! Homepage: https://github.com/senluo-liam/brave-filter
 !-------------------通用脚本元素-------------------
 
-! 百度
-baidu.com###page-copyright
-baidu.com###foot
-www.baidu.com###con-ceiling-wrapper
-
 ! 谷歌
 www.google.com.hk###sfooter
 
@@ -17,9 +12,6 @@ mp.weixin.qq.com##.qr_code_pc_outer
 mp.weixin.qq.com###unlogin_bottom_bar
 mp.weixin.qq.com/mp/
 badjs.weixinbridge.com
-
-! 知鸦
-tool.lu##.pc-qr-code
 
 ! EMS
 fe.pupumall.com
@@ -30,6 +22,7 @@ pupuvip.com###watermark_container>div:style(background-size: 0% !important)
 webapppudo.pupuvip.com##.opm-pulse-webapp-ant-pro-layout-watermark
 admin.pupumall.com##.__wm:style(background-image: none !important)
 oa.pupumall.net##img[id^="wea_watermark_"]
+oa.pupumall.net###wf_watremark_wrap
 dhr.pupumall.net##.performance-evaluation-pro-layout-watermark
 dhr.pupumall.net##.online-judge-pro-layout-watermark
 
