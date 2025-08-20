@@ -8,8 +8,7 @@
 www.google.com.hk###sfooter
 
 ! 微信二维码
-mp.weixin.qq.com##.qr_code_pc_outer
-mp.weixin.qq.com###unlogin_bottom_bar
+mp.weixin.qq.com##.qr_code_pc_outer, #unlogin_bottom_bar
 mp.weixin.qq.com/mp/
 badjs.weixinbridge.com
 
@@ -21,10 +20,8 @@ pupumall.com###watermark_container>div:style(background-size: 0% !important)
 pupuvip.com###watermark_container>div:style(background-size: 0% !important)
 webapppudo.pupuvip.com##.opm-pulse-webapp-ant-pro-layout-watermark
 admin.pupumall.com##.__wm:style(background-image: none !important)
-oa.pupumall.net##img[id^="wea_watermark_"]
-oa.pupumall.net###wf_watremark_wrap
-dhr.pupumall.net##.performance-evaluation-pro-layout-watermark
-dhr.pupumall.net##.online-judge-pro-layout-watermark
+oa.pupumall.net##img[id^="wea_watermark_"], #wf_watremark_wrap
+dhr.pupumall.net##.performance-evaluation-pro-layout-watermark, .online-judge-pro-layout-watermark
 
 ! 反处理一个
 cmpwebapp.pupuvip.com#@#.share-component
@@ -32,6 +29,15 @@ cmpwebapp.pupuvip.com#@#.share-component
 ! 微博
 m.weibo.cn/h5logs/actionLog
 m.weibo.cn/status/baiduad
+
+! 抽屉
+dig.ichouti.cn##div.extra > :not(.extra-common-con)
+dig.ichouti.cn##div.extra > a
+dig.ichouti.cn##nav.left, footer
+dig.ichouti.cn/link/click/*
+dig.ichouti.cn/index/advert
+dig.ichouti.cn/link/hot/statistic
+dig.ichouti.cn/attention/recommend
 
 ! 飞书
 feishu.cn##.ssrWaterMark:style(background-size: 0% !important)
@@ -42,3 +48,4 @@ lf3-short.bytegoofy.com
 lf3-short.ibytedapm.com
 feishu.cn##body>div>div>div>div[style^='z-index']:style(background-size: 0% !important)
 feishu.cn##.help-block.group-btns
+
