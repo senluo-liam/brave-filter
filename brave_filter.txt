@@ -21,7 +21,8 @@ pupuvip.com###watermark_container>div:style(background-size: 0% !important)
 webapppudo.pupuvip.com##.opm-pulse-webapp-ant-pro-layout-watermark
 admin.pupumall.com##.__wm:style(background-image: none !important)
 oa.pupumall.net##img[id^="wea_watermark_"], #wf_watremark_wrap
-dhr.pupumall.net##.performance-evaluation-pro-layout-watermark, .online-judge-pro-layout-watermark
+dhr.pupumall.net##.performance-evaluation-pro-layout-watermark, .online-judge-pro-layout-watermark, .ant-pro-layout-watermark
+hr.pupumall.net###watermark:style(background-image: none !important)
 
 ! 反处理一个
 cmpwebapp.pupuvip.com#@#.share-component
@@ -29,6 +30,9 @@ cmpwebapp.pupuvip.com#@#.share-component
 ! 微博
 m.weibo.cn/h5logs/actionLog
 m.weibo.cn/status/baiduad
+
+! follow临时屏蔽最近阅读
+api.folo.is/entries/read-histories/*
 
 ! 抽屉
 dig.ichouti.cn##div.extra > :not(.extra-common-con)
@@ -48,4 +52,5 @@ lf3-short.bytegoofy.com
 lf3-short.ibytedapm.com
 feishu.cn##body>div>div>div>div[style^='z-index']:style(background-size: 0% !important)
 feishu.cn##.help-block.group-btns
+feishu.cn##body>div[style*='position: fixed'][style*='inset: 0px'][style*='z-index: 99999']:style(background-size: 0% !important)
 
